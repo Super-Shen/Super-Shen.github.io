@@ -2,67 +2,40 @@
 layout: homepage
 ---
 
-## Research Interests
+# Biography
 
-- **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
+### I am a doctoral student at the College of computer science in Jilin University, China and a visiting Ph.D student at Department of Information Engineering and Computer Science of the University of Trento, Italy. Currently, I am a research member in the large scale european project (EU H2020) [WENET - the internet of us](https://internetofus.eu/). 
+### My research is centered on: 
+- **Ubiquitous computing:** human activity recognition, mobile sensing and computing
+- **Machine Learning:** meta-learning, federated learning, transfer learning, multimodal learning
 
-## News
+I am looking for a suitable position in industry or academia. If there is a suitable position for me, please feel free to contact me!
 
-- **[Feb 2020]** Our paper about incremental learning is accepted to [CVPR 2020](http://cvpr2020.thecvf.com/).
-- **[Feb 2020]** We will host the [ACM Multimedia Asia 2020](https://mmasia2020.org/) conference in Singapore!
-- **[Sep 2019]** Our paper about few-shot learning is accepted to [NeurIPS 2019](https://nips.cc/Conferences/2019).
-- **[Mar 2019]** Our paper about few-shot learning is accepted to [CVPR 2019](http://cvpr2019.thecvf.com/).
+# News
 
-## Publications
+- **[April  2022]** Our paper about federated learning is accepted to [IJCAI 2022](http://cvpr2020.thecvf.com/).
 
-- **Mnemonics Training: Multi-Class Incremental Learning without Forgetting**
-  <br>
-  **Yaoyao Liu**, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
-  <br>
-  IEEE Conference on Computer Vision and Pattern Recognition. **CVPR 2020**.
-  <br>
-  [[PDF](https://arxiv.org/pdf/2002.10211.pdf)] [[Code](https://github.com/yaoyao-liu/mnemonics)] [[Project](https://mnemonics.yyliu.net/)] <strong><i style="color:#e74d3c">Oral Presentation</i></strong>
+# Publications
 
-- **Learning to Self-Train for Semi-Supervised Few-Shot Classification**
-  <br>
-  Xinzhe Li, Qianru Sun, **Yaoyao Liu**, Shibao Zheng, Qin Zhou, Tat-Seng Chua, Bernt Schiele
-  <br>
-  33rd Conference on Neural Information Processing Systems. **NeurIPS 2019**.
-  <br>
-  [[PDF](http://papers.nips.cc/paper/9216-learning-to-self-train-for-semi-supervised-few-shot-classification.pdf)] [[Code](https://github.com/xinzheli1217/learning-to-self-train)] [[Poster](https://people.mpi-inf.mpg.de/~yaliu/files/learning-to-self-train-poster.pdf)]
+- **Qiang Shen**, Haotian Feng, Rui Song, Stefano Teso, Fausto Giunchiglia, Hao Xu. Federated Multi-Task Attention for Cross-Individual Human Activity Recognition. IJCAI 2022
 
-- **Meta-Transfer Learning for Few-Shot Learning**
-  <br>
-  Qianru Sun\*, **Yaoyao Liu\***, Tat-Seng Chua, Bernt Schiele
-  <br>
-  IEEE Conference on Computer Vision and Pattern Recognition. **CVPR 2019**.
-  <br>
-  [[PDF](http://openaccess.thecvf.com/content_CVPR_2019/papers/Sun_Meta-Transfer_Learning_for_Few-Shot_Learning_CVPR_2019_paper.pdf)] [[Code](https://github.com/yaoyao-liu/meta-transfer-learning)] [[Project](https://mtl.yyliu.net/)] [[Poster](https://people.mpi-inf.mpg.de/~yaliu/files/meta-transfer-learning-poster.pdf)]
+- **Qiang Shen**, Stefano Teso, Wanyi Zhang, Hao Xu, and Fausto Giunchiglia. Multi-modal subjective context modelling and recognition. In 2020 International Workshop Modelling and Reasoning in Context (ECAI Workshops), 2020.
+
+- **Qiang Shen,** Stefano Teso, Fausto Giunchiglia, Hao Xu. To Transfer or Not to Transfer and Why? Meta-Transfer Learning for Explainable and Controllable
+Cross-Individual Activity Recognition. (submitted to Ubicomp2022)
+
+- **Qiang Shen**, Donglei Song, Zhengyuan Meng, Hao Xu. Federated Multi-Task Learning for Diversity-Aware Context Recognition Using Heterogeneous Multimodal Smartphone Data. (submitted to Ubicomp2022)
+
+-  Zhang, W., **Shen, Q.**, Teso, S. et al. Putting human behavior predictability in context. EPJ Data Sci. 10, 42 (2021). https://doi.org/10.1140/epjds/s13688-021-00299-2
+
+- Zhancheng Ren, **Qiang Shen**, Xiaolei Diao, Hao Xu. (2021), A sentiment-aware deep learning approach for personality detection from text, Information Processing & Management,Volume 58, Issue 3(2021).https://doi.org/10.1016/j.ipm.2021.102532.
+
+- K Zhao, L Huang, R Song, **Q Shen**, H Xu. A Sequential Graph Neural Network for Short Text Classification. Algorithms 14 (12), 352
+
+- N Li, **Q Shen**, R Song, Y Chi, H Xu. MEduKG: A Deep-Learning-Based Approach for Multi-Modal Educational Knowledge Graph Construction. Information 13 (2), 91
+
+- Osman, N., Chenu-Abente, R., **Shen Q.**, Sierra, C., and Giunchiglia, F. Empowering Users in Online Open Communities. SN COMPUT. SCI. 2, 338 (2021). https://doi.org/10.1007/s42979-021-00714-5
+
+- Osman, N., Sierra, C., Chenu-Abente, R., **Qiang, S.**, and Giunchiglia, F. (2020). Open social systems. In 17th European Conference on Multi-Agent Systems (EUMAS), Thessaloniki, Greece.
 
 
-## Selected Talks
-
-- **Learning to Self-Train for Semi-Supervised Few-Shot Classification**
-  <br>
-  NeurIPS Official Meetups
-  <br>
-  Beijing, China, December 2019 [[Slides](https://people.mpi-inf.mpg.de/~yaliu/files/learning-to-self-train-slides.pdf)]
-
-- **Multi-Class Incremental Learning**
-  <br>
-  School of Computer Science and Engineering, Nanyang Technological University
-  <br>
-  Singapore, July 2019 [[Slides](https://people.mpi-inf.mpg.de/~yaliu/files/multi-class-incremental-learning.pdf)]
-
-- **Meta-Transfer Learning for Few-Shot Learning**
-  <br>
-  School of Computing, National University of Singapore
-  <br>
-  Singapore, April 2019 [[Slides](https://people.mpi-inf.mpg.de/~yaliu/files/meta-transfer-learning-slides.pdf)]
-
-## Services
-
-- Co-organizer: [ACM MM Asia 2020](https://mmasia2020.org/).
-- Conference Reviewers: [NeurIPS 2020](https://neurips.cc/Conferences/2020), and [CVPR 2020](http://cvpr2020.thecvf.com/).
-- Journal Reviewers: [T-PAMI](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=34), and [IJCV](https://www.springer.com/journal/11263).
