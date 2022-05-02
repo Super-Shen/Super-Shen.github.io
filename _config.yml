@@ -1,1 +1,19 @@
-theme: jekyll-theme-minimal
+title: Your Name
+position: Ph.D. Student
+affiliation: Your Affiliation
+email: yourname (at) example.edu
+keywords: minimal academic
+google_scholar: https://scholar.google.com/
+github_link: https://github.com/yaoyao-liu/strata-academic
+linkedin: https://www.linkedin.com/
+cv_link: 
+avatar: ./assets/img/avatar.png
+google_analytics: UA-111540567-4
+favicon: ./assets/img/favicon.png
+favicon_dark: ./assets/img/favicon-dark.png
+description: The Strata Academic is a simple and elegant jekyll theme for academic personal homepage.
+canonical: https://strata-academic.yyliu.net/
+remote_theme: yaoyao-liu/strata-academic
+# domain: super-shen.github.io       # if you want to force HTTPS, specify the domain without the http at the start, e.g. example.com
+# url: https://super-shen.github.io  # the base hostname and protocol for your site, e.g. http://example.com
+# baseurl: /super-shen.github.io/  
